@@ -70,3 +70,10 @@
 在虚拟环境中运行以下命令启动应用程序：
 
 python main.py
+
+
+你也可以拉取分支或者下载这个exe文件来运行这个项目：
+
+链接：https://pan.baidu.com/s/1Xv89HJwZqr1I9VZlOmCldg?pwd=6666 
+提取码：6666 
+--来自百度网盘超级会员V5的分享
